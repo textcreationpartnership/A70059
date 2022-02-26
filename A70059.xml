@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The coppy of a letter sent from Iohn Lord Finch, late Lord Keeper, to his friend Dr. Cozens with a commemoration of the favours Dr. Cozens shewed him in his vice-chancellorship : unto vvhich is annexed a good admonition to Protestants.</title>
+            <author>Finch of Fordwich, John Finch, Baron, 1584-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70059</idno>
+            <idno type="STC">Wing F1551A</idno>
+            <idno type="STC">ESTC R10215</idno>
+            <idno type="EEBO-CITATION">12148704</idno>
+            <idno type="OCLC">ocm 12148704</idno>
+            <idno type="VID">55020</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70059)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55020)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 94:5 or 254:E167, no 8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The coppy of a letter sent from Iohn Lord Finch, late Lord Keeper, to his friend Dr. Cozens with a commemoration of the favours Dr. Cozens shewed him in his vice-chancellorship : unto vvhich is annexed a good admonition to Protestants.</title>
+                  <author>Finch of Fordwich, John Finch, Baron, 1584-1660.</author>
+                  <author>Cosin, John, 1594-1672.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+                  <note>"Good councel to Protestants" in verse: p. 5-6.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55020:1"/>
+            <pb facs="tcp:55020:1" rendition="simple:additions"/>
+            <p>THE COPPY OF A LETTER Sent from IOHN Lord FINCH, late Lord <hi>Keeper,</hi> to his Friend Dr. COZENS: WITH A Commemoration of the Favours Dr. <hi>Cozens</hi> Shewed him in his VICE-CHANCELLORSHIP.</p>
+            <p>UNTO VVhich is annexed a good Admo<g ref="char:EOLhyphen"/>nition to PROTESTANTS.</p>
+            <p>Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:55020:2"/>
+            <pb n="1" facs="tcp:55020:2"/>
+            <head>A COPPY OF a LETTER ſent from IOHN Lord FINCH, to Doctor COZENS.</head>
+            <opener>
+               <salute>Dr. <hi>Cozens,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Quotidian familiarity of our Religion, did heretofore con<g ref="char:EOLhyphen"/>tabulate our mindes together, and did at this preſent time ſug<g ref="char:EOLhyphen"/>geſt mee to recall our affinity. And although the impetuous novercation of ambiguous Fortune, have digeſted you from that feare of Honour, to which you were pro<g ref="char:EOLhyphen"/>moted, yet I have not buried our former ac<g ref="char:EOLhyphen"/>quaintance in oblivion, but have beene very senſible of your miſery. For you know I my ſelfe was ſubject to the ſame Deſtinie, and if I had ſtayed any longer, they would have put the poore <hi>Finch</hi> in the Cage, and have made me ſing Prick-Song there but I had more wit then to ſtay, for I did preſuppoſe that there was a tempeſtuous ſtorme ariſing. And kinde Doctor, if you had taken my courſe, you might
+<pb n="2" facs="tcp:55020:3"/>have likewiſe eſcaped the danger that now hangs over your head. But I deplore the vi<g ref="char:EOLhyphen"/>ciſſitude of your malignant fate; yet I remem<g ref="char:EOLhyphen"/>ber that Apothegmaticall ſentence of the <hi>Ly<g ref="char:EOLhyphen"/>rian Horace, Vt ſementem feceris, ita metes.</hi> For had not you ſowne ſuch Antichriſtian ſeeds of Popiſh introduction into the Church, you ſhould never have reaped this harveſt of miſe<g ref="char:EOLhyphen"/>ry. For my part, I was Eagle-winged, and as ſoone as I perceived that Limetwigges were layd for me, I did erect my ſelfe, and by the expanſion of my nimble wings eſcaped thoſe ſnares into which you are fallen. But I beſeech you Sir, let me recall our inveterate Counſell by the freſh recordation of memory: What, do's your Chappell retaine its former orna<g ref="char:EOLhyphen"/>ments? Do's the Crucifixe remaine? and doe the Pictures, and graven Images a dorne it ſtill, as in my time? Do's the Altar ſtand ſtill? or doe not <hi>nefarious</hi> perſons wiſh you facri<g ref="char:EOLhyphen"/>ficed thereon? Do's the Triple Crowne which you erected in Saint <hi>Maries,</hi> illu<g ref="char:EOLhyphen"/>ſtrate ſtill the vulgar ſpeculation? Sir, if the tumultuary imprecations of the Vulgar doe oppoſe you; yet macerate not your ſelfe, neither let paſſion conquer your captive thoughts; for tis a true Apologization, <hi>Quod ti<g ref="char:EOLhyphen"/>bi facere non vis, alteri ne feceris.</hi> But you did contaminate that ſentence too much, by the unjuſt exulceration of Ecleſiaſticall Innovati<g ref="char:EOLhyphen"/>ons: Remember me to the Arch-biſhop,
+<pb n="3" facs="tcp:55020:3"/>and deſire him to put my good counſell in ex<g ref="char:EOLhyphen"/>ecution, that he ſhall Excommunicate both Houſes, before they divorce him from his Spouſe<g ref="char:punc">▪</g> but (alas) I feare his Cannons do requoile, and his Founders miſcarrie, therfore ſet them be new Caſt. Remember me like<g ref="char:EOLhyphen"/>wiſe to Biſhop <hi>Wren,</hi> and bid him ſtraine for it, for he will be made to ſing a note above <hi>Elie.</hi> Remember me likewiſe to <hi>Kilbert</hi> and <hi>Abell,</hi> who (I thinke) are grown weary of two pound in a Tun, but I thinke if their Hogs<g ref="char:EOLhyphen"/>heads were pierced, that you would have wine at ſix-pence, and twelve-pence againe. Re<g ref="char:EOLhyphen"/>member me to Iudge <hi>Crawly,</hi> and tell him that I wonder that <hi>Noverint univerſi</hi> ſhould con<g ref="char:EOLhyphen"/>demne him with ſuch celerity. Remember me likewiſe to the Gentleman in the cut-fin<g ref="char:EOLhyphen"/>ger Gloves, and let him know that I under<g ref="char:EOLhyphen"/>ſtand that <hi>Caſus noſter venit ad non ſuite jam</hi>—Remember me to the Phyſitians, for they have ſtrong ſtomakes, and can digeſt a ſumme with<g ref="char:EOLhyphen"/>out feare or prejudice of cenſorious Momus. Remember me to all Lawyers, and tell them that I underſtand their Obligation is contra<g ref="char:EOLhyphen"/>ry to their condition. I thinke their lines had ſome pernitious diſeas either the running of the reines, or the French pox, for they ſtraddled as wide as any French man. Re<g ref="char:EOLhyphen"/>member me laſtly to all the Taylers, and tell them that they have better luck then Pontifi<g ref="char:EOLhyphen"/>cians,
+<pb n="4" facs="tcp:55020:4"/>for they doe daily invent new faſhions, and are commended for it, for which you are taxed. But loving Doctor, perhaps my pen doe ſeeme too remiſſe, wherefore I will con<g ref="char:EOLhyphen"/>tract my ſelfe in a compendiary Epitomy of my thankes unto you, for all your favours ſhewne mee ſince the laſt time I was at the Vniverfitie, for leting me kiſſe the Virgin Maryes Picture, and the Popes-head, and for innumerable other Curteſies, all which if I ſhould expreſſe, I ſhould not only dilate my ſelfe in a too deveous expanſion, but likewiſe tranſgreffe the limits of your patience: ther<g ref="char:EOLhyphen"/>fore the few admonitions, and ſalubritie of Councel which I derove unto you briefly ſhal be theſe: Firſt, That whither ſoever the tem<g ref="char:EOLhyphen"/>peſtuous Winde hurrieth, you would remem<g ref="char:EOLhyphen"/>ber to keepe your head warme. Secondly, Although you climed up to that Honour up<g ref="char:EOLhyphen"/>on other mens necks, have a great care that you come downe with your own. Reject not my good Councell, neither contemne my af<g ref="char:EOLhyphen"/>fectionate deſire. Thus beſeeching you to ſee the Remembrance to my Friends fully ex<g ref="char:EOLhyphen"/>ecuted, I commend you to Deſtinie, deſiring you to accept the will of,</p>
+            <closer>
+               <signed>Your ingaged and obſequious friend
+IOHN FINCH.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="5" facs="tcp:55020:4"/>
+            <head>Good councel to PROTESTANTS.</head>
+            <lg>
+               <l>SInce Pontificians cannot have their plots,</l>
+               <l>Full executed (whom the righteous <hi>Sc<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ts</hi>
+               </l>
+               <l>Doe utterly deteſt) ſince Papiſts all,</l>
+               <l>Shall by the ſacred ſword of Iuſtice fall;</l>
+               <l>Let <hi>Proteſtants</hi> Religion true profeſſe,</l>
+               <l>And fully from impietie digreſſe:</l>
+               <l>For loe! Here <hi>Baal's</hi> irreligious Prieſts</l>
+               <l>Nefarious Prelates, and all Atheiſts,</l>
+               <l>Are now abjected by the <hi>Parliament,</hi>
+               </l>
+               <l>Whom GOD for Malefactors puniſhment,</l>
+               <l>Hath piouſly clected, and hath made</l>
+               <l>Them Authors, Honeſt men that in their Trade,</l>
+               <l>May proſperouſly flouriſh from baſe fees,</l>
+               <l>Projects, and impious Monopolees,</l>
+               <l>With their exactions which did lately make,</l>
+               <l>The thred-bare Commons of the land to ſhak</l>
+               <l>Learne therefore by their puniſhment to hate,</l>
+               <l>All wicked Hereſie, which now of late,</l>
+               <l>Did overſpread the Church, with Cannons baſe,</l>
+               <l>With Ceremonies, and a Popiſh face,</l>
+               <l>Of Innovations, but to him above,</l>
+               <l>Be thankes immortall to Tri-une <hi>Iehove;</hi>
+               </l>
+               <l>Let us extoll his all-diſpoſing power,</l>
+               <l>Who all our enemies will thus devoure.</l>
+               <l>
+                  <pb n="6" facs="tcp:55020:5"/>
+Falſe Ieſuits repent, falſe Prelates mourne,</l>
+               <l>Falſe Doctors houle, who heretofor did ſcorn</l>
+               <l>True Doctrine, bewayl the numerous crimes</l>
+               <l>Which ye did introduce in former times:</l>
+               <l>But to the Proteſtant this I will ſay,</l>
+               <l>Prophets and Teachers falſe do not obey;</l>
+               <l>Confirme thy faith, and then if Envy durſt</l>
+               <l>Preſume to ſnarle, let envy ſnarle her worſt;</l>
+               <l>Yet ſtill confirme thy faith, and do not yeeld,</l>
+               <l>As a weake Coward to her ſanguine field.</l>
+               <l>Stand firme: do, let her fret, fume ſome &amp; fall,</l>
+               <l>Stark mad, yet ſtand thou firm, whilſt in her gall</l>
+               <l>Of malice the baſe Bedlam taint &amp; ſtink</l>
+               <l>In her polluted and contagious ſinke</l>
+               <l>Of all iniquitie, if ſhe chance to harme,</l>
+               <l>Thy ſtedfaſtneſſe, yet ſtand thou ſtill more</l>
+               <l>For God who pulleth down each wicked ſhrin</l>
+               <l>Will ſet up true Religion more divine.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
